@@ -24,7 +24,4 @@ Hi, I'm Vaishnavi Mugali
 - Email: vnmugali199@gmail.com
 
 ---
-
-### 🧠 Fun Fact
-
 I believe learning by doing is the best way to grow — every project I build takes me one step closer to becoming an AI engineer 🚀
